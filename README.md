@@ -10,7 +10,7 @@
 Hello.
 I am Kim Hwa-yeon, a student at Yeungnam University.
 
-## school🔭 & Hobby⚡
+## School🔭 & Hobby⚡
 I am a computer engineering student at Yeungnam University.
 
 
