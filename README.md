@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hwayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwayeon&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwayeon&layout=compact&theme=radical)
+
 
 
 <a href="https://www.instagram.com/hwayeon_hada/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
