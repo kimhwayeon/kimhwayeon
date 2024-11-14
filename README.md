@@ -1,16 +1,21 @@
-## Introduction
-안녕하세요.
-저는 영남대학교 학생 김화연입니다. 만 19세로 현재 기숙사 생활을 하고 있습니다.
+<!-- Capsule Render 그라데이션 배경 (분홍색에서 보라색) -->
+![header](https://capsule-render.vercel.app/api?type=waving&colorStart=FFB6C1&colorEnd=EE82EE&height=300&section=header&text=Welcome%20to%20Hwayeon's%20Github!&fontSize=50&fontColor=ffffff)
 
-## Career
-현재 경상북도 경산에 있는 영남대학교 컴퓨터공학과 2학년에 재학 중입니다.
+<!-- Vercel's SVG API 텍스트 애니메이션 (하늘색) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Enjoy+Your+Visit!" alt="Typing SVG" />
+</p>
 
-## Hobby
-집에서 ott 영상을 보거나 간단한 음식을 직접 만들어 먹는 것을 좋아합니다. 그리고 게임을 즐겨 하며 스포츠 경기를 보는 것도 좋아합니다.
+## Introduction 😄
+Hello.
+I am Kim Hwa-yeon, a student at Yeungnam University.
 
-## Interest
-구체적인 계획이나 방향을 정하진 못하였지만 보안과 Ai 쪽에 흥미를 두고 있는 상태입니다.
-그래서 현재 저의 학과의 Ai 동아리 'Aing'에 가입하여 활동 중에 있습니다.
+## school🔭 & Hobby⚡
+I am a computer engineering student at Yeungnam University.
+
+
+I like to watch alt videos at home or make and eat simple food myself.
+
 <!--
 **kimhwayeon/kimhwayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +32,8 @@ Here are some ideas to get you started:
 -->
 
 
-### SNS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <a href="https://www.instagram.com/hwayeon_hada/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
