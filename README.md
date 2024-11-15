@@ -1,5 +1,5 @@
-<!-- Capsule Render 그라데이션 배경 (분홍색에서 보라색) -->
-![header](https://capsule-render.vercel.app/api?type=waving&colorStart=FFB6C1&colorEnd=EE82EE&height=300&section=header&text=Welcome%20to%20Hwayeon's%20Github!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Hwayeon%27s%20Github!&height=300&fontSize=50)
+
 
 <!-- Vercel's SVG API 텍스트 애니메이션 (하늘색) -->
 <p align="center">
